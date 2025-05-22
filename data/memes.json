@@ -1,0 +1,44 @@
+{
+  "memes": [
+    {
+      "id": "meme001",
+      "imageUrl": "https://i.imgur.com/hM1LFE5.jpg",
+      "title": "화난 고양이",
+      "description": "분노의 눈빛을 보내는 고양이 짤방",
+      "source": "디시인사이드",
+      "tags": [
+        "고양이",
+        "분노",
+        "귀여움"
+      ],
+      "uploadDate": "2024-03-20T12:00:00Z",
+      "ai_labels": [
+        "cat",
+        "animal",
+        "facial_expression"
+      ],
+      "ai_text_ocr": "",
+      "ai_emotion": "분노"
+    },
+    {
+      "id": "meme002",
+      "imageUrl": "https://i.imgur.com/sohWhy9.jpg",
+      "title": "놀란 피카츄",
+      "description": "충격과 공포의 피카츄 표정",
+      "source": "에펨코리아",
+      "tags": [
+        "피카츄",
+        "포켓몬",
+        "놀람"
+      ],
+      "uploadDate": "2024-03-20T12:30:00Z",
+      "ai_labels": [
+        "pikachu",
+        "pokemon",
+        "surprised_face"
+      ],
+      "ai_text_ocr": "",
+      "ai_emotion": "놀람"
+    }
+  ]
+}
